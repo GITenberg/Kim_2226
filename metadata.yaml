@@ -1,5 +1,8 @@
 _repo: Kim_2226
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -24,6 +27,8 @@ description: "Kim is a novel by Nobel Prize-winning English author Rudyard Kipli
   \ 1998, the Modern Library ranked Kim No. 78 on its list of the 100 best English-language\
   \ novels of the 20th century. In 2003 the book was listed on the BBC's The Big Read\
   \ poll of the UK's \"best-loved novel.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2226#Kim
 gutenberg_bookshelf:
 - Scouts
 - Movie Books
